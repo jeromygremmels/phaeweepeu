@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://cuipheimu.post-engineering.com/sitemap.xml
